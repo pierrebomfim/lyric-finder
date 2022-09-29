@@ -5,6 +5,10 @@
 O **Lyric Finder** é um buscador de letras de músicas. O usúario digita o nome da música e o artista, e a letra em retornada e salva em bando de dados mySQL.
 
 
+## Instrução
+
+O usuário deverá digitar o nome da música e o artista. A aplicação retorna a letra da música. Os inputs podem ser aproximados, a API suporta esse tipo de entrrada.
+
 ## Desenvolvimento
 
 - [x] Script
