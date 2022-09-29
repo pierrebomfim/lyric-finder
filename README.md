@@ -21,7 +21,9 @@ O usuário deverá digitar o nome da música e o artista. A aplicação retorna 
 
 <img align="right" src="images/410-fundo-claro.jpg" width="200">
 
-As letras das músicas são fornecidas pelo [Vagalume](https://www.vagalume.com.br/) por meio de API.
+As letras das músicas são fornecidas pelo [Vagalume](https://www.vagalume.com.br/) por meio de API.<br/><br/><br/>
+
+
 
 ## Pendências
 
