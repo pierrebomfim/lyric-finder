@@ -7,7 +7,7 @@ O **Lyric Finder** é um buscador de letras de músicas. O usúario digita o nom
 
 ## Desenvolvimento
 
-- [ x ] Script
+- [x] Script
 - [ ] DB
 - [ ] Output em pdf
 - [ ] Interface gráfica?
